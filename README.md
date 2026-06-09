@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghostly-love-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ghostly Love In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghostly-love-in-dark/) |
+| **Get License** | [Official Music Licensing for Ghostly Love In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghostly-love-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> A ghostly love is moving in the dark
+> A quiet fire starting from a spark
+> I feel your fingers tracing down my spine
+> And know tonight you're gonna be all mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
