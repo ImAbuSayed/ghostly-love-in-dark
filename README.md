@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghostly-love-in-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ghostly Love In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghostly-love-in-dark/) |
+| **Get License** | [License this song: Ghostly Love In Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghostly-love-in-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5357ffabd15c1f9fe77be28c9593f3cbc4c2b3c71c2e25b183ba70bfc6eb641f` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

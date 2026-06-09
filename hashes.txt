@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghostly Love In Dark
+
+This log tracks the cryptographic history and versioning for the song **Ghostly Love In Dark** (ghostly-love-in-dark).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T16:51:22.107042 | `v1` | `5357ffabd15c1f9fe77be28c9593f3cbc4c2b3c71c2e25b183ba70bfc6eb641f` | `102ffdc473884a777d350d01eaaaee4fb860e82ebfc9f34560b6c3c20c7e1c89` | `2026-06-09_ghostly-love-in-dark-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
